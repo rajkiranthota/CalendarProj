@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 17 00:30:07 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0164-a680-a881-00000d3f2548 
+on database directory memory:/Users/kiran/NetBeansProjects/CalendarProj/testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/Users/kiran/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=/Users/kiran/NetBeansProjects/CalendarProj
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
